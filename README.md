@@ -1,2 +1,1 @@
-
-Save me from being hung!
+Simple Hangman game made with Python.
